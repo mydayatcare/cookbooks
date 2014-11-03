@@ -1,0 +1,53 @@
+{
+  "sources": {
+    "stem_premier": {
+      "path": "."
+    },
+    "elasticsearch": {
+      "locked_version": "0.3.7",
+      "git": "git://github.com/elasticsearch/cookbook-elasticsearch.git",
+      "ref": "b6b4f773e66258e9626e7b0f011758a81f0c47e2"
+    },
+    "mongodb": {
+      "locked_version": "0.14.1",
+      "git": "git://github.com/edelight/chef-mongodb.git",
+      "ref": "c5a8a03d610991612ae77cae1a2f8d2f338fbe06"
+    },
+    "build-essential": {
+      "locked_version": "1.4.2"
+    },
+    "xml": {
+      "locked_version": "1.2.0"
+    },
+    "java": {
+      "locked_version": "1.15.4"
+    },
+    "windows": {
+      "locked_version": "1.11.0"
+    },
+    "chef_handler": {
+      "locked_version": "1.1.4"
+    },
+    "aws": {
+      "locked_version": "1.0.0"
+    },
+    "monit": {
+      "locked_version": "0.7.1"
+    },
+    "ark": {
+      "locked_version": "0.4.0"
+    },
+    "apt": {
+      "locked_version": "2.3.0"
+    },
+    "python": {
+      "locked_version": "1.4.4"
+    },
+    "yum": {
+      "locked_version": "2.4.2"
+    },
+    "runit": {
+      "locked_version": "1.4.0"
+    }
+  }
+}
